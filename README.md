@@ -586,15 +586,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 ### Application Preview
-![Application Preview](./preview.jpg)
+![Application Preview](./preview.jpeg)
 
-> **Note**: Place your actual screenshot as `preview.jpg` in the root directory to display your project preview.
+> **Note**: Place your actual screenshot as `preview.jpeg` in the root directory to display your project preview.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using Next.js, Google AI, Google Maps, Gemini 2.5 Pro and Claude Sonnet 4 **
+**Built with ❤️ using Next.js, Google AI, Google Maps, Gemini 2.5 Pro and Claude Sonnet 4**
 
 ⭐ Star this repo if you find it useful!
 
